@@ -1,0 +1,58 @@
+#boton_verde
+{
+    color: green;
+}
+
+#imagencarousel
+{
+    filter: brightness(0.5);
+}
+#piedecarousel 
+{
+    text-align:right;
+    width: 60%;
+}
+
+#oradores
+{
+    text-align: center;
+    
+}
+#texto
+{
+    font-size: smaller;
+}
+
+#cards
+{
+    margin-left: 140px;
+}
+
+#tarjetaGris
+{
+    background-color: rgb(59, 58, 58);
+    color: aliceblue;
+}
+#orador
+{
+    text-align: center;
+    height: 10px;
+}
+
+#cajadenombre
+{
+    margin-left: 350px; 
+}
+
+#botonenviar
+{
+    
+    background-color: rgb(61, 158, 61) ;
+}
+       
+footer
+{
+    background-color: rgb(13, 63, 97);
+    color: white;
+}
+
